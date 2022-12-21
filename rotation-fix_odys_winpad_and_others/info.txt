@@ -1,0 +1,2 @@
+This will fix the accelarometer-display orientation-matrix of the Odys-Winpad12 on Debian/Ubuntu-based systems by adding an udev-rule with a corrected matrix.
+Just copy it over and reboot.
